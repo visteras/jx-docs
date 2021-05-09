@@ -39,6 +39,11 @@ enableMissingTranslationPlaceholders = true
 	weight = 3
 	languageName = "Español"
 	contentDir = "content/es"
+[languages.ru]
+	languageCode = "ru-RU"
+	weight = 4
+	languageName = "Русский"
+	contentDir = "content/ru"
 
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
